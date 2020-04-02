@@ -21,6 +21,18 @@ class ViewController: UIViewController {
     
     
 
+    
+    
+    
+    
+    
+    
+    
+    
+    func mast1(){
+        print("mast1")
+    }
+    
 
 }
 
